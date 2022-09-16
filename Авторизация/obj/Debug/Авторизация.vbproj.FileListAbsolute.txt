@@ -1,0 +1,17 @@
+C:\Users\Валли\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.exe.config
+C:\Users\Валли\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.exe
+C:\Users\Валли\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.pdb
+C:\Users\Валли\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.xml
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.vbprojAssemblyReference.cache
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\MainWindow.g.vb
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Application.g.vb
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация_MarkupCompile.cache
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация_MarkupCompile.lref
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\MainWindow.baml
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.g.resources
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.Resources.resources
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.vbproj.GenerateResource.cache
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.vbproj.CoreCompileInputs.cache
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.exe
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.xml
+C:\Users\Валли\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.pdb
